@@ -15,3 +15,4 @@ Me playing with [ReactJS](https://reactjs.org/)
 
 - `tsc index.ts` compiles code to `index.js` file that can be executed with `node index.js`
 - `ts-node index.js` compiles code to `index.js` and runs it
+- `npm start` to run an app with [parcel](https://www.npmjs.com/package/parcel)
