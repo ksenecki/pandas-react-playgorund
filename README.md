@@ -13,6 +13,5 @@ Me playing with [ReactJS](https://reactjs.org/)
 
 ## Execution
 
-- `tsc index.ts` compiles code to `index.js` file that can be executed with `node index.js`
-- `ts-node index.js` compiles code to `index.js` and runs it
-- `npm start` to run a Map app with [parcel](https://www.npmjs.com/package/parcel)
+- `npm start`
+- `npm run build`
